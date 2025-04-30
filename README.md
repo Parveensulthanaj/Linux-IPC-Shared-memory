@@ -134,7 +134,6 @@ int main() {
 
 
 ## OUTPUT
-
-
+![alt text](img5/1.png)
 # RESULT:
 The program is executed successfully.
